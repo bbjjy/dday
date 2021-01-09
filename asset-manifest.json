@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.210cdb78.chunk.css",
-    "main.js": "/static/js/main.916fbf70.chunk.js",
+    "main.js": "/static/js/main.950f119b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.93a06f9e.js",
-    "static/js/2.cc6adfd2.chunk.js": "/static/js/2.cc6adfd2.chunk.js",
+    "static/js/2.7588f9a6.chunk.js": "/static/js/2.7588f9a6.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.397260a78899ead34af454f9dfbfcb88.js": "/precache-manifest.397260a78899ead34af454f9dfbfcb88.js",
+    "precache-manifest.6957c8a20ae451e7cb4b75d9cbaf70fd.js": "/precache-manifest.6957c8a20ae451e7cb4b75d9cbaf70fd.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.cc6adfd2.chunk.js.LICENSE.txt": "/static/js/2.cc6adfd2.chunk.js.LICENSE.txt",
+    "static/js/2.7588f9a6.chunk.js.LICENSE.txt": "/static/js/2.7588f9a6.chunk.js.LICENSE.txt",
     "static/media/alram.mp3": "/static/media/alram.e56f865b.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.93a06f9e.js",
-    "static/js/2.cc6adfd2.chunk.js",
+    "static/js/2.7588f9a6.chunk.js",
     "static/css/main.210cdb78.chunk.css",
-    "static/js/main.916fbf70.chunk.js"
+    "static/js/main.950f119b.chunk.js"
   ]
 }
